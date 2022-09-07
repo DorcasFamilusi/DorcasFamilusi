@@ -11,7 +11,7 @@ I'm a Backend Engineer and a Content Creator. I'm passionate about public speaki
 - 🌱 I’m currently learning JavaScript, Git, Github and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing familusidorcas@gmail.com.
+- 📫 You can [view my resume](https://docs.google.com/document/d/12J2ktrco3lA-RooLuGvE6KV96JXR0biv_fWSIFTgQjY/edit) and contact me by emailing familusidorcas@gmail.com.
 
 ---
 
